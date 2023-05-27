@@ -1,0 +1,11 @@
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\bin\Debug\veritabanı sorgu.exe.config
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\bin\Debug\bilgiler.accdb
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\bin\Debug\veritabanı sorgu.exe
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\bin\Debug\veritabanı sorgu.pdb
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\bin\Debug\veritabanı sorgu.xml
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\obj\Debug\veritabanı_sorgu.Form1.resources
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\obj\Debug\veritabanı_sorgu.Resources.resources
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\obj\Debug\veritabanı sorgu.vbproj.GenerateResource.Cache
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\obj\Debug\veritabanı sorgu.exe
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\obj\Debug\veritabanı sorgu.xml
+C:\Users\AKGUL\Desktop\sorgu\veritabanı sorgu\veritabanı sorgu\obj\Debug\veritabanı sorgu.pdb
